@@ -20,8 +20,8 @@ HUMAN is a structured research framework exploring the possibility of long-horiz
 - PAPER (arXiv-style academic paper)
 
 ### Philosophical Foundation
-- ESSAY (origin conceptual layer)
-
+- ESSAY.md
+- 00_origin_motivation.md
 ---
 
 ## 🧠 Key Idea
