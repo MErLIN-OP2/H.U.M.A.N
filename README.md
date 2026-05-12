@@ -1,5 +1,5 @@
 # HUMAN
-A conceptual architecture of a cosmic-scale distributed intelligence system.
+structured speculative AI systems research
 # HUMAN
 
 > Hyperdimensional Unified Model for Autonomous Networks
