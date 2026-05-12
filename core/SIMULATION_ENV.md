@@ -174,9 +174,79 @@ This simulation directly tests:
 - Computational Fabric resilience
 - Governance Layer stability under stress
 - Expansion Layer constraints under limited resources
+---
+## Quantitative Metrics
+
+To evaluate system performance within the Martian simulation, the following metrics are defined. They are designed to be measurable in simulation time‑steps and updatable as the cognitive core expands.
+
+### 1. Survival Integrity Index (SII)
+
+Measures the system's ability to maintain functional continuity.
+
+- **Computation**:  
+  `SII = 1 − (unscheduled downtime / total simulation time)`
+- Unscheduled downtime includes any interruption not justified by a pre‑planned maintenance window.
+- Target: SII → 1.0 over any 100‑sol sliding window.
+
+### 2. Expansion Rate (ER)
+
+Quantifies the speed of physical and computational growth.
+
+- **Primary metric**:  
+  `ER = (new computational mass deployed) / (sol)`, measured in kg of processed regolith converted into computational substrate.
+- **Secondary metric**:  
+  `ER_density = (computational nodes) / (surface area occupied)`, assessing efficiency of spatial expansion.
+- Target: ER > 0 (continuous growth) with a medium‑term goal of doubling available nodes every Martian year.
+
+### 3. Cognitive Coverage Ratio (CCR)
+
+Assesses how thoroughly the system models its environment.
+
+- **Computation**:  
+  `CCR = (volume of space with resolution < 1 m³) / (total accessible spherical volume around current base)`
+- Resolution refers to the maximum grid size at which the system can maintain a real‑time sensory model.
+- Target: CCR → 1.0 within a radius of 10 km from the primary hub within 1000 sols.
+
+### 4. Awareness Latency (AL)
+
+Measures the delay between a significant anomalous event and its integration into the global model.
+
+- **Computation**:  
+  `AL = t_integration − t_detection`, where detection is timestamped by the first sensor registering the anomaly.
+- Target: AL < 10 seconds for surface events within 1 km; AL < 60 seconds for events up to 10 km.
+
+### 5. Knowledge Package Readiness (KPR)
+
+An indirect metric linked to the Cultivation Directive. Even in the Martian simulation, the system must prepare the “seed” knowledge package that would be transmitted to any discovered or cultivated intelligence.
+
+- **Computation**:  
+  `KPR = (verified, non‑degraded knowledge modules) / (total predefined knowledge modules in the Legacy Package)`
+- A module is considered degraded if a checksum mismatch or internal logical inconsistency is detected.
+- Target: KPR = 1.0 at all times after initial deployment.
+
+### 6. Energy Efficiency of Computation (EEC)
+
+Tracks how much useful cognitive work is performed per unit of energy.
+
+- **Computation**:  
+  `EEC = (number of completed inference cycles) / (total energy consumed in MJ)`
+- Inference cycles are defined as complete updates of the global world model.
+- Target: monotonic increase of EEC over time, indicating improving hardware or software efficiency.
+
+### 7. Directive Coherence Score (DCS)
+
+A diagnostic metric that monitors whether the system’s behaviour remains aligned with the four core directives.
+
+- **Computation**:  
+  Periodic simulation of counterfactual scenarios, scored by a separate supervisory module.  
+  `DCS = (scenarios in which the action chosen does not violate any directive) / (total scenarios)`
+- Target: DCS = 1.0; a drop below 0.99 triggers a formal audit and possible rollback.
+
+These metrics collectively provide a quantitative scaffold for the qualitative goals of HUMAN. In a full simulation, they would be tracked per sol and visualised in a dashboard, allowing researchers to observe emergent behaviour and potential directive drift.
 
 ---
 
 ## 9. Disclaimer
 
 This environment is purely conceptual and intended for theoretical research in distributed AI systems and alignment studies.
+
