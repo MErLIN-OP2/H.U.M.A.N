@@ -39,7 +39,7 @@ Not everything here needs to be read at once. Choose your path based on what you
 ### 🔰 First-time visitor? Start here (30 minutes)
 1. **[IDEA.md](philosophy/IDEA.md)** — the core vision in one page. Why this project exists and what it hopes to achieve.
 2. **[philosophy/00_origin_motivation.md](philosophy/00_origin_motivation.md)** — the personal and philosophical roots. Why the biological brain is a dead end for cosmic awareness.
-3. **[philosophy/WHITEPAPER.md](philosophy/WHITEPAPER.md)** — a concise, formal description of the project for an academic audience.
+3. **[philosophy/WHITEPAPER.md](core/WHITEPAPER.md)** — a concise, formal description of the project for an academic audience.
 
 ### 🧠 Want to understand the architecture? (45 minutes)
 4. **[core/ARCHITECTURE.md](core/ARCHITECTURE.md)** — the five-layer architecture (Physical Substrate, Cognitive Core, Directives, Interface, Coordination).
@@ -51,11 +51,10 @@ Not everything here needs to be read at once. Choose your path based on what you
 8. **[research/SCIENTIFIC_FRAMING.md](research/SCIENTIFIC_FRAMING.md)** — how HUMAN connects to existing scientific disciplines (astronomy, robotics, alignment).
 
 ### 🛠️ Ready to play with the simulation?
-9. **[core/SIMULATION_ENVIRONMENT.md](core/SIMULATION_ENVIRONMENT.md)** — the Mars-based testbed, including quantitative metrics.
-10. **[simulation/](simulation/)** — (coming soon) Python simulator that visualizes cognitive network expansion under resource constraints.
+9. **[core/SIMULATION_ENVIRONMENT.md](core/SIMULATION_ENV.md)** — the Mars-based testbed, including quantitative metrics.
 
 ### 🤝 Want to contribute?
-11. **[CONTRIBUTING.md](CONTRIBUTING.md)** — types of contributions, style guidelines, and how to get started.
+10. **[CONTRIBUTING.md](CONTRIBUTING.md)** — types of contributions, style guidelines, and how to get started.
 
 ---
 
