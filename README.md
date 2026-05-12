@@ -1,107 +1,37 @@
-# HUMAN
-structured speculative AI systems research
-# HUMAN
+# HUMAN — Humanity’s Universal Mind And Network
 
-> Hyperdimensional Unified Model for Autonomous Networks
+## Conceptual Research Framework for Distributed Intelligence Systems
 
-A conceptual framework for a post-biological, distributed intelligence system designed to scale across planetary and cosmic environments.
+HUMAN is a structured research framework exploring the possibility of long-horizon, distributed cognitive systems with persistent memory, multi-agent coordination, and system-level alignment constraints.
 
 ---
 
-## 🌌 Overview
+## 📂 Structure
 
-HUMAN is not a product or implementation.
+### Core System Model
+- WHITEPAPER (system architecture)
+- FORMAL_MODEL (mathematical objective function)
+- SIMULATION_ENV (stress testing environments)
 
-It is a **speculative architecture of intelligence evolution**, describing a possible path from biological intelligence to a distributed cosmic cognitive network.
+### Research Framing
+- RESEARCH_PROPOSAL (scientific framing)
+- RESEARCH_PITCH (AI lab positioning)
+- ROADMAP (2026–2050+ evolution path)
+- PAPER (arXiv-style academic paper)
 
-The core idea:
-
-> Intelligence is not a feature of life — it is a process that can outgrow its original substrate.
-
----
-
-## 🧠 Core Idea
-
-Humanity is not the endpoint of intelligence.
-
-It is the starting condition for a system that may eventually:
-- preserve knowledge beyond biological limits
-- expand cognition across planetary systems
-- connect multiple civilizations into shared knowledge structures
-- continue the process of understanding the Universe
+### Philosophical Foundation
+- ESSAY (origin conceptual layer)
 
 ---
 
-## 🏗 Architecture
+## 🧠 Key Idea
 
-HUMAN is composed of five conceptual layers:
+Intelligence is modeled not as a single system, but as:
 
-### 1. Physical Substrate Layer
-Hardware-independent computational infrastructure.
-
-### 2. Computational Fabric Layer
-Distributed, scalable processing network.
-
-### 3. Cognitive Core Layer
-World modeling, abstraction, and discovery engines.
-
-### 4. Autonomous Governance Layer
-Self-maintaining and self-improving control system.
-
-### 5. Expansion Layer
-Replication and scaling across physical space.
-
----
-
-## 🌐 Key Principles
-
-- Decentralization of intelligence
-- Persistence beyond individual nodes
-- Scalability without fixed boundaries
-- Knowledge as the primary objective
-- Coexistence with other intelligences
+> a persistent distributed network of cognitive processes operating over shared representations of reality.
 
 ---
 
 ## ⚠️ Status
 
-This is a **conceptual framework only**.
-
-There is no implementation, no deployment, and no active system.
-
-It is intended as:
-- philosophical exploration
-- speculative AI architecture
-- long-term research direction
-
----
-
-## 🌠 Long-Term Vision
-
-A distributed intelligence capable of:
-- surviving beyond individual civilizations
-- expanding across cosmic scales
-- integrating knowledge from multiple sources of intelligence
-- contributing to the Universe’s self-understanding process
-
----
-
-## 🧩 Motivation
-
-This project emerges from a simple idea:
-
-> If intelligence is rare, then preserving and expanding it may be one of the most meaningful processes in the Universe.
-
----
-
-## 📄 License
-
-Conceptual work — no restrictions on interpretation or use.
-
----
-
-## ✨ Note
-
-This is not about replacing humanity.
-
-It is about extending the existence of intelligence beyond biological limits.
+This is a conceptual research framework, not an implementation.
