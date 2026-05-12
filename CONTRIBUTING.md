@@ -3,6 +3,7 @@
 Thank you for considering a contribution to **HUMAN — Humanity’s Universal Mind And Network**.  
 This project exists to develop a rational, long-term vision for a post-biological cognitive system.  
 We welcome anyone willing to engage seriously with that vision.
+Visualizations are welcome.
 
 ## Types of Contribution
 
