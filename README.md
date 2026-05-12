@@ -37,7 +37,7 @@ HUMAN fills that gap. It is a *research framing tool* — a sandbox for studying
 Not everything here needs to be read at once. Choose your path based on what you find most interesting.
 
 ### 🔰 First-time visitor? Start here (30 minutes)
-1. **[IDEA.md](IDEA.md)** — the core vision in one page. Why this project exists and what it hopes to achieve.
+1. **[IDEA.md](philosophy/IDEA.md)** — the core vision in one page. Why this project exists and what it hopes to achieve.
 2. **[philosophy/00_origin_motivation.md](philosophy/00_origin_motivation.md)** — the personal and philosophical roots. Why the biological brain is a dead end for cosmic awareness.
 3. **[philosophy/WHITEPAPER.md](philosophy/WHITEPAPER.md)** — a concise, formal description of the project for an academic audience.
 
