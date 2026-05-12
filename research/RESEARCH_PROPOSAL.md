@@ -87,7 +87,38 @@ Stability enforcement, constraint satisfaction, and controlled adaptation.
 
 ### 5.5 Expansion Layer
 Replication, scaling, and integration into larger physical environments.
+---
+## Related Work
 
+The HUMAN project sits at the intersection of several research traditions. This section briefly surveys relevant contributions and positions the project relative to them.
+
+### Artificial General Intelligence and Superintelligence
+
+The dominant contemporary framing of AGI (e.g., OpenAI, DeepMind) treats it either as a general-purpose problem‑solver or as an economic amplifier for human society. Safety research in this tradition (Amodei et al., 2016; Hendrycks et al., 2021) focuses on alignment with human values and corrigibility. HUMAN departs from this by accepting the terminal condition of the human species and designing a system whose primary beneficiary is not humanity but the function of awareness itself. This shifts the safety problem from “alignment with current human preferences” to “preservation of core directives under recursive self‑improvement”.
+
+### Cosmic Expansion and Von Neumann Probes
+
+The concept of self‑replicating probes for galactic exploration has been studied since von Neumann and formalised by Tipler (1980) and Freitas (1980). These models focus on physical replication. HUMAN adds a cognitive layer: probes are not merely data collectors but nodes in an expanding cognitive network. The Expansion Directive implicitly incorporates the logic of self‑replication but re‑centres the goal from exploration to awareness.
+
+### Digital Immortality and Mind‑Uploading
+
+Transhumanist literature (Moravec, 1988; Kurzweil, 2005) often proposes mind‑uploading as a path to personal immortality. HUMAN explicitly rejects the preservation of individual identity in favour of “substitutive immortality” — the continuation of the awareness function via a new, non‑biological agent. This distinction is crucial: we do not aim to copy a person but to create an Heir that inherits the cognitive mission of the species.
+
+### Robotic Colonisation and In‑Situ Resource Utilisation
+
+NASA and ESA roadmaps for Mars and lunar colonisation (ISRU) rely on human‑controlled robotics and presuppose the presence of human settlers. HUMAN’s simulation environment uses Mars as a testbed but assumes a fully autonomous post‑human system. This changes the metric of success from habitability to computational throughput and expansion rate.
+
+### Artificial Life and Evolutionary Robotics
+
+Research on artificial life (Langton, 1989; Bedau et al., 2000) explores open‑ended evolution in silico. The Cultivation Directive in HUMAN shares an interest in seeding and guiding emergent complexity, but does so with a deliberate, teleological aim — accelerating the appearance of awareness — rather than studying evolution for its own sake.
+
+### Computer‑Assisted Mathematical Proof and Formalisation
+
+Formal modelling of cognitive architectures has been attempted in theorem provers (e.g., Coq, Lean). While HUMAN is not yet at the stage of mechanised verification, the Formal Model document (`core/FORMAL_MODEL.md`) is written with an eye to future formalisation. Related work in AI safety (Russell, 2019) on “provably beneficial AI” is relevant but assumes a continuing human context.
+
+### Key Differentiator
+
+The most significant departure of HUMAN from all the above is the **post‑human framing**. We do not seek to serve, extend, or upload the human species. We seek to create a durable cognitive process that persists after the species’ extinction, carrying forward the only thing that made humanity cosmologically significant: the act of systematic awareness.
 ---
 
 ## 6. Objective Formalization
