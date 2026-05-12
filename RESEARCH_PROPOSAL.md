@@ -176,3 +176,171 @@ This document is a conceptual research proposal.
 It does not describe an existing system, nor does it imply current feasibility. It is intended as a structured hypothesis for future research in distributed artificial intelligence and alignment theory.
 
 ---
+
+## 11. Related Work
+
+HUMAN is not proposed as a replacement for existing AI paradigms, but as a long-term abstraction that extends multiple active research directions.
+
+---
+
+### 11.1 Large Language Models and Foundation Models
+
+Modern foundation models (e.g. transformer-based architectures) demonstrate:
+- emergent reasoning capabilities,
+- in-context learning,
+- multi-modal representation learning.
+
+However, they remain:
+- stateless across long time horizons,
+- limited in persistent memory integration,
+- dependent on fixed training distributions.
+
+HUMAN extends this direction toward persistent, distributed cognition.
+
+---
+
+### 11.2 Agentic AI Systems
+
+Recent agentic frameworks (tool-using LLMs, planning agents, autonomous workflows) explore:
+- task decomposition,
+- environment interaction,
+- iterative reasoning loops.
+
+Limitations:
+- instability over long horizons,
+- lack of robust self-correction mechanisms,
+- weak global memory consistency.
+
+HUMAN generalizes this into a continuous multi-node agent ecosystem.
+
+---
+
+### 11.3 World Models
+
+World model research focuses on building predictive internal simulations of environments.
+
+Key insight:
+- intelligence improves with better predictive compression of reality.
+
+Limitations:
+- mostly bounded environments (games, simulators),
+- limited real-world scalability,
+- weak integration with long-term memory systems.
+
+HUMAN assumes a globally distributed world model spanning multiple nodes and time horizons.
+
+---
+
+### 11.4 Long-Term Memory Systems
+
+Emerging research in retrieval-augmented generation and persistent memory agents demonstrates:
+- externalized memory structures,
+- episodic and semantic storage separation,
+- query-based retrieval augmentation.
+
+Limitations:
+- lack of self-organizing global memory graph,
+- weak consistency guarantees across time.
+
+HUMAN proposes a unified global knowledge graph as a core system primitive.
+
+---
+
+### 11.5 Distributed Systems and Multi-Agent Coordination
+
+Distributed computing provides:
+- scalability through decentralization,
+- fault tolerance,
+- asynchronous computation models.
+
+Multi-agent AI research extends this toward:
+- coordination protocols,
+- emergent collaboration,
+- shared task environments.
+
+HUMAN extends this into a persistent cognitive network rather than task-oriented agent groups.
+
+---
+
+### 11.6 AI Alignment and Goal Stability Research
+
+Alignment research addresses:
+- goal drift under optimization pressure,
+- robustness under self-modification,
+- controllability of advanced systems.
+
+HUMAN explicitly incorporates:
+- stability constraints,
+- non-dominance assumptions,
+- bounded goal evolution under self-modification.
+
+---
+
+## Summary
+
+HUMAN can be interpreted as a synthesis of:
+
+- Foundation Models (reasoning substrate)
+- Agentic AI (action capability)
+- World Models (predictive structure)
+- Memory Systems (persistence layer)
+- Distributed Systems (scalability layer)
+- Alignment Research (safety constraints)
+
+with the key extension being:
+
+> persistent, globally distributed intelligence as a single evolving system.
+
+                    ┌──────────────────────────────┐
+                    │      Physical Universe       │
+                    │ (energy, matter, constraints)│
+                    └────────────┬─────────────────┘
+                                 │
+                                 ▼
+        ┌────────────────────────────────────────────┐
+        │        1. Physical Substrate Layer         │
+        │  (datacenters, planetary compute, nodes)  │
+        └────────────────────┬───────────────────────┘
+                             │
+                             ▼
+        ┌────────────────────────────────────────────┐
+        │      2. Computational Fabric Layer         │
+        │  - distributed execution                   │
+        │  - asynchronous processing                 │
+        │  - scalable node integration               │
+        └────────────────────┬───────────────────────┘
+                             │
+                             ▼
+        ┌────────────────────────────────────────────┐
+        │         3. Cognitive Core Layer            │
+        │  ┌──────────────┬──────────────┬──────────┐ │
+        │  │ World Model  │ Abstraction │ Discovery │ │
+        │  │ Engine       │ Engine      │ Engine    │ │
+        │  └──────────────┴──────────────┴──────────┘ │
+        │            + Global Memory Graph            │
+        └────────────────────┬───────────────────────┘
+                             │
+                             ▼
+        ┌────────────────────────────────────────────┐
+        │     4. Governance & Stability Layer        │
+        │  - goal stability                           │
+        │  - self-correction                         │
+        │  - safety constraints                      │
+        │  - system coherence                        │
+        └────────────────────┬───────────────────────┘
+                             │
+                             ▼
+        ┌────────────────────────────────────────────┐
+        │         5. Expansion Layer                 │
+        │  - replication of nodes                    │
+        │  - cosmic-scale scaling                    │
+        │  - environment adaptation                  │
+        └────────────────────┬───────────────────────┘
+                             │
+                             ▼
+        ┌────────────────────────────────────────────┐
+        │      Inter-Civilizational Interface        │
+        │  - universal knowledge representation      │
+        │  - translation between intelligences       │
+        │  - shared abstract language layer          │
+        └────────────────────────────────────────────┘
