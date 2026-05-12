@@ -59,3 +59,53 @@ Not everything here needs to be read at once. Choose your path based on what you
 ---
 
 ## Repository structure
+H.U.M.A.N/
+├── IDEA.md # Project vision
+├── CONTRIBUTING.md # How to get involved
+├── philosophy/
+│ ├── 00_origin_motivation.md # Why this project began
+│ └── WHITEPAPER.md # Formal whitepaper
+├── core/
+│ ├── ARCHITECTURE.md # Five-layer system architecture
+│ ├── FORMAL_MODEL.md # Mathematical formalisation
+│ └── SIMULATION_ENVIRONMENT.md # Martian testbed with metrics
+├── research/
+│ ├── RESEARCH_PITCH.md # Connection to real-world AI trends
+│ ├── RESEARCH_PROPOSAL.md # Research questions and evaluation
+│ └── SCIENTIFIC_FRAMING.md # Scientific grounding
+└── simulation/ # (in progress) Python simulator
+└── human_sim.py
+
+---
+
+## Who is this for?
+
+- AI researchers interested in long-horizon autonomy and multi-agent coordination.
+- Alignment researchers looking for a stable-goal testbed.
+- Philosophers of mind and post-humanism.
+- Engineers working on space robotics and ISRU who want to think beyond human habitation.
+- Anyone who has ever looked at the stars and wondered what we will leave behind.
+
+---
+
+## Project status
+
+HUMAN is in the **conceptual exploration phase**. There is no code implementation of the full system, nor a claim of near-term feasibility. The current goal is to refine the framework, connect it to real research, and provide an environment where hard questions about persistent, distributed intelligence can be asked with intellectual honesty.
+
+---
+
+## License and usage
+
+All content in this repository is licensed under the [Creative Commons Attribution 4.0 International License](LICENSE). You are free to share, adapt, and build upon it — as long as you give appropriate credit.  
+If you use HUMAN in your research, please cite this repository.
+
+---
+
+## Contact
+
+For now, the best way to discuss the project is via [GitHub Issues](https://github.com/MErLIN-OP2/H.U.M.A.N./issues).  
+No mailing list or chat server yet — open a question, and we will talk.
+
+---
+
+*HUMAN is not about building a better tool. It is about understanding what it would mean for intelligence to survive its creators — and whether we have the clarity to design that survival.*
