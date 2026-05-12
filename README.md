@@ -59,23 +59,26 @@ Not everything here needs to be read at once. Choose your path based on what you
 ---
 
 ## Repository structure
-H.U.M.A.N/
-├── IDEA.md # Project vision
-├── CONTRIBUTING.md # How to get involved
-├── philosophy/
-│ ├── 00_origin_motivation.md # Why this project began
-│ └── WHITEPAPER.md # Formal whitepaper
-├── core/
-│ ├── ARCHITECTURE.md # Five-layer system architecture
-│ ├── FORMAL_MODEL.md # Mathematical formalisation
-│ └── SIMULATION_ENVIRONMENT.md # Martian testbed with metrics
-├── research/
-│ ├── RESEARCH_PITCH.md # Connection to real-world AI trends
-│ ├── RESEARCH_PROPOSAL.md # Research questions and evaluation
-│ └── SCIENTIFIC_FRAMING.md # Scientific grounding
-└── simulation/ # (in progress) Python simulator
-└── human_sim.py
 
+- **`IDEA.md`** — Project vision
+- **`CONTRIBUTING.md`** — How to get involved
+
+- **`philosophy/`**
+  - `00_origin_motivation.md` — Why this project began
+  - `WHITEPAPER.md` — Formal whitepaper
+
+- **`core/`**
+  - `ARCHITECTURE.md` — Five‑layer system architecture
+  - `FORMAL_MODEL.md` — Mathematical formalisation
+  - `SIMULATION_ENVIRONMENT.md` — Martian testbed with metrics
+
+- **`research/`**
+  - `RESEARCH_PITCH.md` — Connection to real‑world AI trends
+  - `RESEARCH_PROPOSAL.md` — Research questions and evaluation
+  - `SCIENTIFIC_FRAMING.md` — Scientific grounding
+
+- **`simulation/`** *(in progress)*
+ 
 ---
 
 ## Who is this for?
